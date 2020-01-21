@@ -1,24 +1,24 @@
-### Welcome to Zhen Pages
+# Welcome to Zhen Pages
 
 ## Profile
 
-   Name:        Zhen Qin
+   - Name:        Zhen Qin
    
-   Gender:      Female
+   - Gender:      Female
    
-   Nationality: China
+   - Nationality: China
   
-   Degree:      Master
+   - Degree:      Master
       
-   E-mail：     qin7zhen@126.com
+   - E-mail：     qin7zhen@126.com
 
 ## Research Direction
 
-   Anomaly Detection 
+   - Anomaly Detection 
    
-   Face Verification
+   - Face Verification
    
 
 ## Professional Experience
 
-   Algorithm Engineer (2017~): Huawei Noah's Ark Lab, Xi'an, China
+   - Algorithm Engineer (2017~): Huawei Noah's Ark Lab, Xi'an, China
